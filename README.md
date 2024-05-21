@@ -1,6 +1,6 @@
 # path_finder
 
-## Video Demo: https://youtu.be/1XdHsY3EiTo
+#### Video Demo: https://youtu.be/1XdHsY3EiTo
 
 ## Introduction
 This project designs, implements and demonstrates an algorithm which takes any input map 
