@@ -1,5 +1,7 @@
 # path_finder
 
+## Video Demo: https://youtu.be/1XdHsY3EiTo
+
 ## Introduction
 This project designs, implements and demonstrates an algorithm which takes any input map 
 (similar to the map below) and, starting at a given source point, finds a short path to a given
