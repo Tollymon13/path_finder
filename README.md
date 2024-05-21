@@ -33,10 +33,12 @@ through all the map hull points. Next, each convex hull point is initialized wit
 using a for each loop, the code will go through all the polygons in the map, while checking if the specified
 point touches or intersects the polygon. The last for loop checks two specific cases, shown in Figure 1. If the
 for loop is true, the point is added to the list and at the end the list is returned.
-## Dijkstra's algorithm
+## The Concept
 
 ![image](https://github.com/Tollymon13/path_finder/assets/159135691/49ef4039-6321-4b29-ab91-33ca0f51e58c)
 ![image](https://github.com/Tollymon13/path_finder/assets/159135691/a221eee9-9777-4d34-a6b9-640f01d3c381)
+
+## Dijkstra's algorithm
 ![image](https://github.com/Tollymon13/path_finder/assets/159135691/3f15e5ae-1e05-4ebe-8f8c-bd487c02e9d3)
 
 ## Computational Complexity of the Algorithm
